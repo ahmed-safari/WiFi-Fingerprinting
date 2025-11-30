@@ -1,0 +1,5 @@
+Experiment,Method,F1,Accuracy
+Baseline,k-NN + Scaled RSSI,0.7971,0.8087
+A: Feature,Per-Sample Norm,0.8004,0.8128
+B: Model,Random Forest,0.8056,0.801
+C: Combined,Per-Sample Norm + RF,0.8739055532008363,0.8771458117890383
